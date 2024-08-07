@@ -1,0 +1,18 @@
+How to Run the Project
+Install Required Libraries:
+
+bash
+Copy code
+pip install nltk numpy tensorflow
+Run the Script:
+
+Save the script in a .py file (e.g., chatbot.py).
+Ensure intents.json is in the same directory as the script.
+Run the script from the terminal:
+bash
+Copy code
+python chatbot.py
+Interact with the Chatbot:
+
+Once the script is running, you can start chatting with the bot. Type your messages, and the bot will respond based on its trained model.
+Type quit to stop the chat.

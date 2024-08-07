@@ -1,0 +1,13 @@
+Example Usage
+plaintext
+Copy code
+Start talking with the bot (type quit to stop)!
+You: Hi
+Bot: Hello!
+You: How are you?
+Bot: How can I help you?
+You: Thank you
+Bot: You're welcome!
+You: Bye
+Bot: See you later!
+You: quit
